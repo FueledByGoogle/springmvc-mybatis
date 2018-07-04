@@ -1,7 +1,7 @@
 # SpringMVC-MyBatis
 
 
-## Tools"
+## Tools:
 - Maven
 - MyBatis
 - Spring
